@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+.score {
+  font-family: 'Teko', sans-serif;
+  color: #4d6cd1;
+  text-align: center;
+}
